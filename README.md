@@ -1,4 +1,4 @@
-# MyMinorProject
+# OverseasEducationalConsultancy
 This project is based on overseas educational consultancy .
 Nowadays, many students aspire to get an overseas education. 
 Students and even their parents are very enthusiastic about sending their children abroad for higher studies for better prospects. 
